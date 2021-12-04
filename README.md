@@ -1,4 +1,4 @@
-### Oiii eu sou a Ruan Rita, criadora de conteúdo de programação e tecnologia! 👋👋👋
+### Oiii eu sou o Ruan Rita, desenvolvedor de websites e aplicativos! 👋👋👋
 <!--
 **Ruan-Rita/Ruan-Rita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
