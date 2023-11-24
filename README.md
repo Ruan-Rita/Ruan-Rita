@@ -1,4 +1,7 @@
-### Oiii eu sou o Ruan Rita, desenvolvedor de websites e aplicativos! 👋👋👋
+### Olá, eu sou o Ruan Rita, um apaixonado desenvolvedor com um profundo domínio em programação. Crio websites e aplicativos com a fusão perfeita de energia criativa e conhecimento técnico. Minha jornada na programação é impulsionada pela busca constante de excelência, resultando em soluções inovadoras e funcionais. Vamos transformar suas ideias em realidade digital! 👋👋👋
+
+- 🔭 I’m currently working on CambioReal
+- 🌱 I’m currently learning MicroServices
 <!--
 **Ruan-Rita/Ruan-Rita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
