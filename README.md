@@ -1,4 +1,6 @@
-### Olá, eu sou o Ruan Rita, um apaixonado desenvolvedor com um profundo domínio em programação. Crio websites e aplicativos com a fusão perfeita de energia criativa e conhecimento técnico. Minha jornada na programação é impulsionada pela busca constante de excelência, resultando em soluções inovadoras e funcionais. Vamos transformar suas ideias em realidade digital! 👋👋👋
+### Olá, eu sou o Ruan Rita
+
+Um apaixonado desenvolvedor com um profundo domínio em programação. Crio websites e aplicativos com a fusão perfeita de energia criativa e conhecimento técnico. Minha jornada na programação é impulsionada pela busca constante de excelência, resultando em soluções inovadoras e funcionais. Vamos transformar suas ideias em realidade digital! 👋👋👋
 
 - 🔭 I’m currently working on CambioReal
 - 🌱 I’m currently learning MicroServices
